@@ -2,29 +2,29 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
+sidebar:1
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Alexis Rodríguez Casañas
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: alexis.rcas@gmail.com
+    phone:
+    website:
     linkedin: alandoe
-    github: sharu725
+    github: alexrcas
     gitlab:
     bitbucket:
     twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
-    languages:
+    idiomas:
       - idiom: Español
         level: Native
 
