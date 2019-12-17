@@ -1,0 +1,174 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Alexis Rodríguez Casañas
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: alexis.rcas@gmail.com
+    phone:
+    website:
+    linkedin: alandoe
+    github: alexrcas
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Inglés
+        level: Alto
+
+      - idiom: Ruso
+        level: Básico
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Sobre mí
+    summary: |
+      Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo cualquier juguete y
+      aparato que llegaba a mis manos para intentar comprender su funcionamiento.
+       Soy muy <b>feliz</b> por haber conseguido dedicarme a lo que siempre
+       había que querido. Mi profesión se entremezcla con mi hobby resultándome
+       imposible situar una línea divisoria y los domingos no me afecta pensar
+       que al día siguiente es lunes. Creo que esa es una de las cosas más hermosas
+       que nos pueden ocurrir en la vida y cada día pienso en lo afortunado que soy por ello.<br>
+       <br>Comencé mis estudios de ingeniería informática y me decanté por la rama
+       de ingeniería de computadores. En ella, aprendí los conceptos básicos sobre
+       sistemas empotrados y toda la magia que se produce bajo el sistema operativo. Si abrimos un ordenador, no veremos los
+       programas flotando; tan solo cables y circuitos físicos. Entonces, ¿en qué
+       momento exacto y cómo esa electricidad se convierte en una letra, en un dato, y en
+       úlima instancia, en software? Siempre encontré fascinante el punto donde el mundo real y
+       el del software se entrelazan o interactúan entre sí.
+       <br>
+       <br>
+       Último párrafo hablar del máster, web, full stack, etc.
+education:
+    - degree: Máster en desarrollo Full Stack
+      university: Universidad de La Laguna
+      time: 2020
+      details: |
+        
+    - degree: Grado en Ingeniería Informática
+      university: Universidad de La Laguna
+      time: 2019
+      details: |
+        
+experiences:
+    - role: Full Stack Developer
+      time: 2019 - Actualidad
+      company: MetroTenerife (Metropolitano de Tenerife, S.A.)
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Becario de TI
+      time: 2018 - 2019
+      company: Oficina de Software Libre de la Universidad de La Laguna
+      details: |
+        Compaginé mi último año de estudios del grado con una beca de colaboración
+        en la Oficina de Software Libre. Mis tareas principales consistían en:
+          - Velar por el correcto funcionamiento de las aulas de informática
+          y solucionar incidencias técnicas en equipos individuales, servidores o
+          la propia red.
+          - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Cursos
+    intro: |
+      Estos son algunos de los cursos que he realizado.
+    papers:
+      - title: HTML5 de principiante a experto
+        link:
+        authors: Universidad de La Laguna
+        conference: 2 ECTS
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

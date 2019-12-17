@@ -1,0 +1,201 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Alexis Rodríguez Casañas
+    tagline: Ingeniero informático<br><br>Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: alexis.rcas@gmail.com
+    phone:
+    website:
+    linkedin: alandoe
+    github: alexrcas
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Español
+        level: Nativo
+
+      - idiom: Inglés
+        level: Alto
+
+      - idiom: Ruso
+        level: Básico
+
+    interests:
+      - item: Climbing
+        link:
+
+      - item: Snowboarding
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Sobre mí
+    summary: |
+      Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todos los juguetes y
+      aparatos que llegaban a mis manos para intentar comprender su funcionamiento.
+       Soy muy <b>feliz</b> por haber conseguido dedicarme a lo que siempre
+       había querido. Mi profesión se entremezcla con mi hobby resultándome
+       imposible situar una línea divisoria y los domingos no me afecta pensar
+       que al día siguiente es lunes. Creo que esa es una de las cosas más hermosas
+       que nos pueden ocurrir en la vida y cada día pienso en lo afortunado que soy por ello.<br>
+       <br>Estudié <b>ingeniería informática</b> y cuando llegó el momento de elegir rama, me decanté por la
+       <b>ingeniería de computadores</b>. En ella, aprendí los conceptos básicos sobre
+       <b>sistemas empotrados, robótica, ensambladores</b> y toda la magia que ocurre bajo el sistema operativo hasta llegar
+       a la electrónica, donde el mundo físico y el software se entremezclan, algo que siempre quise comprender.
+       <br>
+       <br>
+       Casi terminando mis estudios, prácticamente no contaba con conocimientos sobre el mundo web.
+       Quería cambiar eso. En parte por simple gusto por el aprendizaje y en parte conocedor de las tendencias
+       del mercado y la informática. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
+       Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
+       Ingeniería Informática (desarrollo Full Stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
+       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full Stack</b> y un nuevo romance en <b>NodeJS</b> ❤.
+       
+       
+education:
+    - degree: Máster en Desarrollo Full Stack
+      university: Universidad de La Laguna
+      time: 2020
+      details: |
+        
+    - degree: Grado en Ingeniería Informática
+      university: Universidad de La Laguna
+      time: 2019
+      details: |
+        
+experiences:
+    - role: Full Stack Developer
+      time: 2019 - Actualidad
+      company: MetroTenerife (Metropolitano de Tenerife, S.A.)
+      details: |
+        Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
+        Mis funciones principales consiste en colaborar con el <b>proyecto SIMOVE</b>
+        (Sistema de Monitorización de velocidad de Embarcado). Mis labores a día de hoy han consistido en:
+          - Colaboración en el <b>desarrollo del backoffice</b> de la aplicación a todos los niveles (back-end, bases de datos y front-end),
+          corrigiendo u optimizando las partes existentes y desarrollando algunas nuevas.
+          - Desarrollo de nuevos formularios <b>.NET</b> para la intranet, usados cada día por todos los revisores y oficinas para realizar sus tareas.
+          - Generación y análisis de informes con herramientas de <b>Business Intelligence</b>.
+          - Integración de datos con <b>Talend</b>.
+    - role: Becario de TI
+      time: 2018 - 2019
+      company: Oficina de Software Libre de la Universidad de La Laguna
+      details: |
+        Compaginé mi último año de estudios del grado con una beca de colaboración
+        en la Oficina de Software Libre. Mis tareas principales consistían en:
+          - Velar por el correcto funcionamiento de las aulas de informática
+          y <b>solucionar incidencias técnicas</b> en equipos individuales, servidores y
+          la propia red.
+          - Atender y prestar <b>servicio técnico u orientación</b> a cualquier persona
+          que se dirijiese a la oficina siempre que la consulta estuviese relacionada
+          con <b>Linux y software libre</b>.
+          - <b>Tutorizar</b> un curso online sobre <b>Linux</b> al resto de becarios, atendiendo
+          sus dudas, así como <b>impartir algunas charlas</b> técnicas y divulgativas.
+          - Colaborar en la <b>organización de eventos y congresos</b>, como el <b>PyDay Tenerife</b> o
+          el <b>Congreso de Estudiantes de Ingeniería Informática</b>
+projects:
+    title: Proyectos personales
+    intro: >
+      Siempre tengo de fondo algún proyecto personal en mi tiempo libre como excusa
+      para aprender y conocer nuevas tecnologías y herramientas. Estoy 
+      intentando adoptar la costumbre de documentar y publicar las cosas que hago
+      para que puedan servir a cualquier persona con curiosidad. Por el momento,
+      no tengo ningún proyecto con fines no didácticos, aunque siempre me ha llamado
+      el mundo del emprendimiento y no lo descarto en un futuro.
+    assignments:
+      - title: NodeJS-Domotics
+        link: "#hook"
+        tagline: "Sistema domótico mediante un servidor NodeJS en Raspberry PI y el circuito integrado ESP8266"
+     
+
+publications:
+    title: Cursos
+    intro: |
+      Estos son algunos de los cursos que he realizado.
+    papers:
+      - title: HTML5 de principiante a experto
+        link:
+        authors: Universidad de La Laguna
+        conference: 2 ECTS
+
+      - title: Programación web con Javascript
+        link: 
+        authors: Universidad de La Laguna
+        conference: 2 ECTS
+
+      - title: CSS3 de principiante a experto
+        link:
+        authors: Universidad de La Laguna
+        conference: 2 ECTS
+
+      - title: Web Full Stack
+        link:
+        authors: Online (Udemy)
+        conference: 35 horas
+
+      - title: Introducción a React
+        link:
+        authors: Online (Udemy)
+        conference: 8 horas
+        
+      - title: Desarrollo de videojuegos en Unity
+        link:
+        authors: Online (Udemy)
+        conference: 36 horas
+
+      - title: Deep Learning con TensorFlow
+        link: 
+        authors: Online (Udemy)
+        conference: 40 horas
+
+skills:
+    title: Habilidades y competencias
+
+    toolset:
+      - name: C / C++ / C#
+        level: 90%
+
+      - name: Javascript
+        level: 75%
+
+      - name: Java
+        level: 50%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby
+        level: 70%
+
+      - name: Python
+        level: 80%
+
+      - name: Bash
+        level: 60%
+
+      - name: SQL
+        level: 50%
+
+      - name: Lenguajes ensambladores
+        level: 70%
+      
+      - name: Photoshop
+        level: 85%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
