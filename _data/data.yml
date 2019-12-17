@@ -115,15 +115,12 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Siempre tengo de fondo algún proyecto personal en mi tiempo libre como excusa
-      para aprender y conocer nuevas tecnologías y herramientas. Estoy 
-      intentando adoptar la costumbre de documentar y publicar las cosas que hago
-      para que puedan servir a cualquier persona con curiosidad. Por el momento,
-      no tengo ningún proyecto con fines no didácticos, aunque siempre me ha llamado
-      el mundo del emprendimiento y no lo descarto en un futuro.
+      Siempre estoy en continuo aprendizaje y realizando proyectos personales. Estoy intentando adoptar la costumbre
+      de documentar y publicar algunos de ellos para que puedan servir a cualquier persona interesada. Por el momento,
+      no tengo ningún proyecto con fines no didácticos.
     assignments:
       - title: NodeJS-Domotics
-        link: "#hook"
+        link: "https://alexrcas.github.io/nodejs-domotics/"
         tagline: "Sistema domótico mediante un servidor NodeJS en Raspberry PI y el circuito integrado ESP8266"
      
 
