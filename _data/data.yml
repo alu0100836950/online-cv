@@ -271,7 +271,7 @@ skills:
       - name: TensorFlow
         level: 50%
 
-      - name: Jekyll (este sitio está hecho en Jekyll :) )
+      - name: Jekyll
         level: 50%
 
       - name: WebGL
