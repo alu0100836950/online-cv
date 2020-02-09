@@ -47,12 +47,11 @@ sidebar:
 career-profile:
     title: Sobre mí
     summary: |
-      Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todos los juguetes y
+      Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todos los
       aparatos que llegaban a mis manos para intentar comprender su funcionamiento.
        Soy muy <b>feliz</b> por poder dedicarme a lo que siempre
        había querido. Mi profesión se entremezcla con mi hobby resultándome
-       imposible situar una línea divisoria y los domingos no me afecta pensar
-       que al día siguiente es lunes. Creo que esa es una de las cosas más hermosas
+       imposible situar una línea divisoria. Creo que esa es una de las cosas más hermosas
        que nos pueden ocurrir en la vida y cada día pienso en lo afortunado que soy por ello.<br>
        <br>Estudié <b>ingeniería informática</b> y cuando llegó el momento de elegir rama, me decanté por la
        <b>ingeniería de computadores</b>. En ella, aprendí los conceptos básicos sobre
@@ -62,7 +61,7 @@ career-profile:
        <br>
        Sin embargo, terminé mis estudios de grado sin apenas conocimientos sobre el mundo web.
        Quería cambiar eso. En parte por curiosidad y en parte conocedor de las tendencias
-       del mercado y la informática. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
+       del mercado y la informática en el futuro. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
        Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
        Ingeniería Informática (desarrollo Full Stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
        decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full Stack</b> y un nuevo romance en <b>NodeJS</b> ❤.
@@ -185,18 +184,18 @@ skills:
       - name: Qt
         level: 65%
 
-      - name: MySQL
+      - name: .NET
         level: 50%
 
-      - name: .NET
+      - name: .MySQL
         level: 45%
 
       - name: PHP
-        level: 45%
+        level: 30%
     
     front-end:
       - name: Javascript
-        level: 95%
+        level: 85%
 
       - name: HTML5
         level: 85%
@@ -205,84 +204,87 @@ skills:
         level: 85%
 
       - name: React / React Native
-        level: 80%
+        level: 60%
 
       - name: Vue.js
-        level: 80%
+        level: 25%
 
     tools:
       - name: Ansible
-        level: 50%
+        level: 80%
+
+      - name: Git
+        level: 80%
       
       - name: Bash
-        level: 50%
+        level: 70%
 
       - name: Docker
-        level: 50%
-
-      - name: Powershell
-        level: 40%
+        level: 70%
 
       - name: TDD (Test Driving Development)
-        level: 50%
+        level: 60%
 
       - name: DevOps
-        level: 50%
+        level: 60%
 
       - name: Gulp
         level: 40%
 
-      - name: Git
-        level: 50%
+      - name: Powershell
+        level: 30%
 
     
     hardware:
-      - name: ROS (Robot Operating System)
-        level: 90%
-
       - name: Arduino
-        level: 80%
-      
-      - name: Lenguaje ensamblador
-        level: 80%
+        level: 90%
 
       - name: Verilog
         level: 80%
+      
+      - name: Lenguaje ensamblador
+        level: 70%
+
+      - name: ROS (Robot Operating System)
+        level: 50%
 
     others:
 
       - name: Linux
-        level: 80%
-        
-      - name: Google Analytics (SEO)
-        level: 80%
+        level: 90%
 
-      - name: Redes
-        level: 80%
-
-      - name: TensorFlow
-        level: 80%
-
-      - name: Jekyll
-        level: 50%
+      - name: Photoshop
+        level: 90%
 
       - name: Unity
         level: 90%
 
-      - name: WebGL
-        level: 80%
-      
-      - name: Photoshop
-        level: 80%
+      - name: Redes
+        level: 70%
 
+      - name: Posicionamiento SEO
+        level: 60%
+
+      - name: Wordpress
+        level: 60%
+
+      - name: TensorFlow
+        level: 50%
+
+      - name: Jekyll (¡este sitio está hecho con Jekyll!)
+        level: 50%
+
+      - name: WebGL
+        level: 40%
+    
       - name: Talend
-        level: 80%
+        level: 40%
         
       - name: Tableau
-        level: 90%
+        level: 40%
 
       - name: MicroStrategy
-        level: 80%
+        level: 40%
 
         
 
