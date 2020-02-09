@@ -7,6 +7,9 @@ jQuery(document).ready(function($) {
         $('.level-bar-inner').each(function() {
         
             var itemWidth = $(this).data('level');
+            var opacity = parseInt(itemWidth)
+    
+            $(this).css('opacity', itemWidth)
             
             $(this).animate({
                 width: itemWidth
