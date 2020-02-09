@@ -166,33 +166,18 @@ publications:
 skills:
     title: Habilidades y competencias
 
-    toolset:
+    back-end:
       - name: C / C++ / C#
         level: 95%
 
       - name: NodeJS
         level: 85%
-
-      - name: Javascript
-        level: 85%
       
       - name: Python
         level: 85%
-
-      - name: HTML5 & CSS (Sass)
-        level: 80%
         
       - name: Java
         level: 75%
-
-      - name: React / React Native
-        level: 75%
-
-      - name: Arduino
-        level: 75%
-        
-      - name: Unity
-        level: 70%
 
       - name: Ruby
         level: 70%
@@ -200,23 +185,105 @@ skills:
       - name: Qt
         level: 65%
 
-      - name: Git
-        level: 60%
-
-      - name: Bash
-        level: 60%
-
-      - name: Ensambladores
-        level: 50%
-
-      - name: SQL
+      - name: MySQL
         level: 50%
 
       - name: .NET
         level: 45%
 
-      - name: Wordpress
+      - name: PHP
+        level: 45%
+    
+    front-end:
+      - name: Javascript
+        level: 95%
+
+      - name: HTML5
+        level: 85%
+
+      - name: CSS3 (SaSS)
+        level: 85%
+
+      - name: React / React Native
+        level: 80%
+
+      - name: Vue.js
+        level: 80%
+
+    tools:
+      - name: Ansible
+        level: 50%
+      
+      - name: Bash
+        level: 50%
+
+      - name: Docker
+        level: 50%
+
+      - name: Powershell
         level: 40%
+
+      - name: TDD (Test Driving Development)
+        level: 50%
+
+      - name: DevOps
+        level: 50%
+
+      - name: Gulp
+        level: 40%
+
+      - name: Git
+        level: 50%
+
+    
+    hardware:
+      - name: ROS (Robot Operating System)
+        level: 90%
+
+      - name: Arduino
+        level: 80%
+      
+      - name: Lenguaje ensamblador
+        level: 80%
+
+      - name: Verilog
+        level: 80%
+
+    others:
+
+      - name: Linux
+        level: 80%
+        
+      - name: Google Analytics (SEO)
+        level: 80%
+
+      - name: Redes
+        level: 80%
+
+      - name: TensorFlow
+        level: 80%
+
+      - name: Jekyll
+        level: 50%
+
+      - name: Unity
+        level: 90%
+
+      - name: WebGL
+        level: 80%
+      
+      - name: Photoshop
+        level: 80%
+
+      - name: Talend
+        level: 80%
+        
+      - name: Tableau
+        level: 90%
+
+      - name: MicroStrategy
+        level: 80%
+
         
 
 

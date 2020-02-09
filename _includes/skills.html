@@ -10,9 +10,10 @@
     {{ skills.title }}
   </h2>
 
+  <h4>Back-end</h4>
   <div class="skillset">
 
-    {% for skill in skills.toolset %}
+    {% for skill in skills.back-end %}
     <div class="item">
 
       <h3 class="level-title">{{ skill.name }}</h3>
@@ -27,6 +28,78 @@
 
   </div>
 
+  <h4>Front-end</h4>
+  <div class="skillset">
+
+    {% for skill in skills.front-end %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+
+  <h4>Herramientas / apoyo</h4>
+  <div class="skillset">
+
+    {% for skill in skills.tools %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+  <h4>Hardware / robótica</h4>
+  <div class="skillset">
+
+    {% for skill in skills.hardware %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
+
+  <h4>Otras</h4>
+  <div class="skillset">
+
+    {% for skill in skills.others %}
+    <div class="item">
+
+      <h3 class="level-title">{{ skill.name }}</h3>
+
+      <div class="level-bar">
+        <div class="level-bar-inner" data-level="{{ skill.level }}">
+        </div>
+      </div><!--//level-bar-->
+
+    </div><!--//item-->
+    {% endfor %}
+
+  </div>
   
 
 </section><!--//skills-section-->
