@@ -60,8 +60,8 @@ career-profile:
        a la electrónica, donde el mundo físico y el software se entremezclan, algo que siempre quise comprender.
        <br>
        <br>
-       Casi terminando mis estudios, prácticamente no contaba con conocimientos sobre el mundo web.
-       Quería cambiar eso. En parte por simple gusto por el aprendizaje y en parte conocedor de las tendencias
+       Sin embargo, terminé mis estudios de grado sin apenas conocimientos sobre el mundo web.
+       Quería cambiar eso. En parte por curiosidad y en parte conocedor de las tendencias
        del mercado y la informática. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
        Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
        Ingeniería Informática (desarrollo Full Stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
@@ -115,9 +115,8 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Siempre estoy en continuo aprendizaje y realizando proyectos personales. Estoy intentando adoptar la costumbre
-      de documentar y publicar algunos de ellos para que puedan servir a cualquier persona interesada. Por el momento,
-      no tengo ningún proyecto con fines no didácticos.
+      Siempre estoy en continuo aprendizaje y realizando proyectos en mi tiempo libre. Estoy intentando desarrollar el hábito de documentar
+      y publicar las cosas que hago para que puedan servir a cualquier persona que tenga curiosidad.
     assignments:
       - title: NodeJS-Domotics
         link: "https://alexrcas.github.io/nodejs-domotics/"
@@ -146,22 +145,22 @@ publications:
 
       - title: Web Full Stack
         link:
-        authors: Online (Udemy)
+        authors: Online
         conference: 35 horas
 
       - title: Introducción a React
         link:
-        authors: Online (Udemy)
+        authors: Online
         conference: 8 horas
         
       - title: Desarrollo de videojuegos en Unity
         link:
-        authors: Online (Udemy)
+        authors: Online
         conference: 36 horas
 
       - title: Deep Learning con TensorFlow
         link: 
-        authors: Online (Udemy)
+        authors: Online
         conference: 40 horas
 
 skills:
@@ -171,19 +170,22 @@ skills:
       - name: C / C++ / C#
         level: 95%
 
-      - name: HTML5 & CSS (Sass)
-        level: 90%
+      - name: NodeJS
+        level: 85%
+
+      - name: Javascript
+        level: 85%
       
       - name: Python
-        level: 80%
-        
-      - name: NodeJS
+        level: 85%
+
+      - name: HTML5 & CSS (Sass)
         level: 80%
         
       - name: Java
         level: 75%
 
-      - name: Javascript
+      - name: React / React Native
         level: 75%
 
       - name: Arduino
@@ -216,8 +218,6 @@ skills:
       - name: Wordpress
         level: 40%
         
-      - name: React
-        level: 30%
 
 
 footer: >
