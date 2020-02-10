@@ -88,7 +88,7 @@ experiences:
         (Sistema de Monitorización de Velocidad de Embarcado). Mis labores a día de hoy han consistido en:
           - Colaboración en el <b>desarrollo del backoffice</b> de la aplicación a todos los niveles (back-end, bases de datos y front-end),
           corrigiendo u optimizando las partes existentes y desarrollando nuevas.
-          - Desarrollo de nuevos formularios <b>.NET</b> para la intranet, usados cada día por todos los revisores y oficinas para realizar sus tareas.
+          - Desarrollo de nuevos formularios <b>.NET</b> para la intranet, usados cada día por todas las oficinas.
           - Generación y análisis de informes con herramientas de <b>Business Intelligence</b>.
           - Integración de datos con <b>Talend</b>.
     - role: Becario de TI
@@ -100,10 +100,7 @@ experiences:
           - Velar por el correcto funcionamiento de las aulas de informática
           y <b>solucionar incidencias técnicas</b> en equipos individuales, servidores y
           la propia red.
-          - Análisis y auditoría de una aplicación web para la oficina que no funcionaba correctamente. Decidí elaborar un informe
-          explicando por qué no era viable continuar el proyecto, destacando errores clasificados por gravedad y por categorías (back-end, front-end y usabilidad).
-          También presenté un segundo informe ofreciendo un nuevo proyecto diseñado y desarrollado desde cero, junto con un prototipo. Los informes agradaron a la dirección
-          y fui autorizado para comenzar el desarrollo.
+          - Desarrollo de una web, plugins y temas personalizados en Wordpress desde cero.
           - Atender y prestar <b>servicio técnico u orientación</b> a cualquier persona
           que se dirijiese a la oficina siempre que la consulta estuviese relacionada
           con <b>Linux y software libre</b>.
@@ -115,7 +112,7 @@ projects:
     title: Proyectos personales
     intro: >
       Siempre estoy en continuo aprendizaje y realizando proyectos en mi tiempo libre. Estoy intentando desarrollar el hábito de documentar
-      y publicar las cosas que hago para que puedan servir a cualquier persona que tenga curiosidad.
+      y publicar lo que hago con el fin de que pueda ser de ayuda a cualquier persona con curiosidad.
     assignments:
       - title: NodeJS-Domotics
         link: "https://alexrcas.github.io/nodejs-domotics/"
