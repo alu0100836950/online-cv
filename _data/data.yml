@@ -62,7 +62,7 @@ career-profile:
        del mercado y la informática en el futuro. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
        Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
        Ingeniería Informática (desarrollo Full Stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
-       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full Stack</b> y un nuevo romance en <b>NodeJS</b> ❤.
+       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full Stack</b> ❤.
        
        
 education:
@@ -109,12 +109,22 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Siempre estoy en continuo aprendizaje y realizando proyectos en mi tiempo libre. Estoy intentando desarrollar el hábito de documentar
-      y publicar lo que hago con el fin de que pueda ser de ayuda a cualquier persona con curiosidad.
+      Siempre estoy en continuo aprendizaje y realizando proyectos personales. Estoy intentando acostumbrarme a documentar y compartir algunas
+      de las cosas que hago por si en algún momento pueden servir de ayuda o referencia a cualquier persona de la comunidad.
     assignments:
       - title: NodeJS-Domotics
         link: "https://alexrcas.github.io/nodejs-domotics/"
         tagline: "Sistema domótico mediante un servidor NodeJS en Raspberry PI y el circuito integrado ESP8266"
+
+      - title: Código limpio
+        link: "enlace"
+        tagline: "Material de apoyo que he elaborado resumiendo diversas fuentes y autores reconocidos que uso para
+        impartir charlas de iniciación sobre buenos hábitos de formato y estilo que permitan escribir código limpio."
+
+      - title: Proyecto de fin de carrera
+        link: "https://riull.ull.es/xmlui/handle/915/16580"
+        tagline: "Sistema de asistencia a la conducción mediante el procesamiento de imágenes procedentes de una dash cam utilizando redes neuronales
+        y técnicas de visión por computador. (Calificado con Sobresaliente 9,5)"
      
 
 publications:
@@ -270,19 +280,19 @@ skills:
         level: 39%
 
       - name: WebGL
-        level: 39%
+        level: 35%
     
       - name: Talend
-        level: 39%
+        level: 30%
         
       - name: Tableau
-        level: 39%
+        level: 25%
 
       - name: MicroStrategy
-        level: 39%
+        level: 25%
 
       - name: Pentaho
-        level: 39%
+        level: 15%
 
         
 

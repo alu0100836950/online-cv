@@ -23,25 +23,23 @@ jQuery(document).ready(function($) {
             
             $(this).animate({
                 width: itemWidth
-            }, 1600);
+            }, 1500);
             
         });
     }
 
-
-    /*$(window).on('load', function() {
-        growBars();
-    });*/
-
-    $(window).scroll(function() {
+    let checkVisible = () => {
         var top_of_element = $('#start-grow').offset().top;
         var bottom_of_element = $('#start-grow').offset().top + $('#start-grow').outerHeight();
         var bottom_of_screen = $(window).scrollTop() + $(window).innerHeight();
         var top_of_screen = $(window).scrollTop();
     
-        if ((bottom_of_screen > top_of_element + 50) && (top_of_screen < bottom_of_element)){
+        if ((bottom_of_screen > top_of_element + 50) && (top_of_screen < bottom_of_element))
             growBars();
-        }
+    }
+
+    $(window).scroll(function() {
+        checkVisible();
     });
    
 
