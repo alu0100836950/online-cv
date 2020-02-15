@@ -39,7 +39,7 @@ jQuery(document).ready(function($) {
         var bottom_of_screen = $(window).scrollTop() + $(window).innerHeight();
         var top_of_screen = $(window).scrollTop();
     
-        if ((bottom_of_screen > top_of_element + 200) && (top_of_screen < bottom_of_element)){
+        if ((bottom_of_screen > top_of_element + 50) && (top_of_screen < bottom_of_element)){
             growBars();
         }
     });
