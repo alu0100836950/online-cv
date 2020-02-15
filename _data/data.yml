@@ -116,11 +116,6 @@ projects:
         link: "https://alexrcas.github.io/nodejs-domotics/"
         tagline: "Sistema domótico mediante un servidor NodeJS en Raspberry PI y el circuito integrado ESP8266"
 
-      - title: Código limpio
-        link: "enlace"
-        tagline: "Material de apoyo que he elaborado resumiendo diversas fuentes y autores reconocidos que uso para
-        impartir charlas de iniciación sobre buenos hábitos de formato y estilo que permitan escribir código limpio."
-
       - title: Proyecto de fin de carrera
         link: "https://riull.ull.es/xmlui/handle/915/16580"
         tagline: "Sistema de asistencia a la conducción mediante el procesamiento de imágenes procedentes de una dash cam utilizando redes neuronales
