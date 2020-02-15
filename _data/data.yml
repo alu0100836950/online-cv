@@ -24,15 +24,13 @@ sidebar:
     codewars:
     goodreads:
 
-    idiomas:
-      - idiom: Español
-        level: Nativo
+    languages:
 
       - idiom: Inglés
         level: Alto
 
       - idiom: Ruso
-        level: Básico
+        level: Básico limitado
 
     interests:
       - item: Desarrollo Full Stack
@@ -84,11 +82,11 @@ experiences:
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       details: |
         Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
-        Mis funciones principales consisten en colaborar con el <b>proyecto SIMOVE</b>
+        Mis funciones principales consisten en colaborar con el <b><a href="https://simoverail.com/" target="_blank">proyecto SIMOVE</a></b>
         (Sistema de Monitorización de Velocidad de Embarcado). Mis labores a día de hoy han consistido en:
           - Colaboración en el <b>desarrollo del backoffice</b> de la aplicación a todos los niveles (back-end, bases de datos y front-end),
           corrigiendo u optimizando las partes existentes y desarrollando nuevas.
-          - Desarrollo de nuevos formularios <b>.NET</b> para la intranet, usados cada día por todas las oficinas.
+          - <b>Desarrollo de formularios .NET</b> para la intranet, usados cada día por todas las oficinas.
           - Generación y análisis de informes con herramientas de <b>Business Intelligence</b>.
           - Integración de datos con <b>Talend</b>.
     - role: Becario de TI
@@ -99,8 +97,8 @@ experiences:
         en la Oficina de Software Libre. Mis tareas principales consistían en:
           - Velar por el correcto funcionamiento de las aulas de informática
           y <b>solucionar incidencias técnicas</b> en equipos individuales, servidores y
-          la propia red.
-          - Desarrollo de una web, plugins y temas personalizados en Wordpress desde cero.
+          equipos de red.
+          - <b>Desarrollo de una web</b>, plugins y temas personalizados en Wordpress desde cero.
           - Atender y prestar <b>servicio técnico u orientación</b> a cualquier persona
           que se dirijiese a la oficina siempre que la consulta estuviese relacionada
           con <b>Linux y software libre</b>.
@@ -171,11 +169,11 @@ skills:
       
       - name: Python
         level: 85%
-        
-      - name: Java
-        level: 75%
 
       - name: Ruby
+        level: 74%
+        
+      - name: Java
         level: 70%
 
       - name: Qt
@@ -188,7 +186,7 @@ skills:
         level: 45%
 
       - name: PHP
-        level: 30%
+        level: 39%
     
     front-end:
       - name: Javascript
@@ -226,10 +224,10 @@ skills:
         level: 60%
 
       - name: Gulp
-        level: 40%
+        level: 39%
 
       - name: Powershell
-        level: 30%
+        level: 39%
 
     
     hardware:
@@ -265,26 +263,30 @@ skills:
       - name: Wordpress
         level: 60%
 
-      - name: TensorFlow
-        level: 50%
-
       - name: Jekyll
         level: 50%
 
+      - name: TensorFlow
+        level: 39%
+
       - name: WebGL
-        level: 40%
+        level: 39%
     
       - name: Talend
-        level: 40%
+        level: 39%
         
       - name: Tableau
-        level: 40%
+        level: 39%
 
       - name: MicroStrategy
-        level: 40%
+        level: 39%
+
+      - name: Pentaho
+        level: 39%
 
         
 
 
 footer: >
-    Este sitio es una modificación enriquecida de una plantilla creada y compartida libremente por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Este sitio es una modificación enriquecida de una estructura creada y compartida libremente por <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>.
+    Usa, reescribe, comparte y vive el código libre, pero ¡no olvides agradecer y mencionar a la fuente original ❤!

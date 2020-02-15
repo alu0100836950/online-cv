@@ -13,17 +13,6 @@ h1, h2, h3, h4, h5, h6  {
     font-weight: 700;
 }
 
-a {
-    color: darken($theme-color, 15%);
-    &:hover {
-        text-decoration: underline;
-        color: darken($theme-color, 30%);
-    }
-    &:focus {
-        text-decoration: none;
-    }
-}
-
 p {
     line-height: 1.5;
 }
@@ -289,4 +278,34 @@ h4 {
 
 .degree {
     color: white;
+}
+
+.square-r {
+    height: 12px;
+    width: 12px;
+    background: #D85858;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.square-y {
+    height: 12px;
+    width: 12px;
+    background: #D8D061;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.square-g {
+    height: 12px;
+    width: 12px;
+    background: #49AE61;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.caption {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
 }
