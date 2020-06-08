@@ -58,8 +58,8 @@ career-profile:
        <br>
        <br>
        Sin embargo, terminé mis estudios de grado sin apenas conocimientos sobre el mundo web.
-       Quería cambiar eso. En parte por curiosidad y en parte conocedor de las tendencias
-       del mercado y la informática en el futuro. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
+       Quería cambiar eso, en parte por curiosidad y en parte conocedor de las tendencias
+       del mercado y la informática. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
        Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
        Ingeniería Informática (desarrollo Full Stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
        decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full Stack</b> ❤.
@@ -68,7 +68,7 @@ career-profile:
 education:
     - degree: Máster en Desarrollo Full Stack
       university: Universidad de La Laguna
-      time: 2020
+      time: 2021
       details: |
         
     - degree: Grado en Ingeniería Informática
@@ -81,14 +81,16 @@ experiences:
       time: 2019 - Actualidad
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       details: |
-        Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
-        Mis funciones principales consisten en colaborar con el <b><a href="https://simoverail.com/" target="_blank">proyecto SIMOVE</a></b>
-        (Sistema de Monitorización de Velocidad de Embarcado). Mis labores a día de hoy han consistido en:
+        Alterné mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
+        Mis funciones principales consistieron en colaborar con el <b><a href="https://simoverail.com/" target="_blank">proyecto SIMOVE</a></b>
+        (Sistema de Monitorización de Velocidad de Embarcado). También realicé otras labores y proyectos paralelos. Algunas de mis actividades fueron:
           - Colaboración en el <b>desarrollo del backoffice</b> de la aplicación a todos los niveles (back-end, bases de datos y front-end),
           corrigiendo u optimizando las partes existentes y desarrollando nuevas.
-          - <b>Desarrollo de formularios .NET</b> para la intranet, usados cada día por todas las oficinas.
+          - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas.
           - Generación y análisis de informes con herramientas de <b>Business Intelligence</b>.
-          - Integración de datos con <b>Talend</b>.
+          - Proyecto Chronos: creación de una aplicación desde cero con Java (Spring) para unificar varias aplicaciones obsoletas o poco usables.
+          El proyecto consistió en una fase de ETL para integrar las diferentes fuentes de datos, actividad que realicé bajo la observación de mi tutor
+          debido a la gran complejidad del modelo de datos, y una fase de desarrollo back-end y front-end, las cuales realicé solo.
     - role: Becario de TI
       time: 2018 - 2019
       company: Oficina de Software Libre de la Universidad de La Laguna
@@ -110,23 +112,29 @@ projects:
     title: Proyectos personales
     intro: >
       Siempre estoy en continuo aprendizaje y realizando proyectos personales. Estoy intentando acostumbrarme a documentar y compartir algunas
-      de las cosas que hago por si en algún momento pueden servir de ayuda o referencia a cualquier persona de la comunidad.
+      de las cosas que hago por si pudiesen ser de ayuda a cualquier persona con interés.
     assignments:
-      - title: NodeJS-Domotics
-        link: "https://alexrcas.github.io/nodejs-domotics/"
-        tagline: "Sistema domótico mediante un servidor NodeJS en Raspberry PI y el circuito integrado ESP8266"
+      - title: Cloud-detector
+        link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
+        tagline: "Sistema de detección de intrusos mediante machine learning basado en computación en la nube"
 
       - title: Proyecto de fin de carrera
         link: "https://riull.ull.es/xmlui/handle/915/16580"
         tagline: "Sistema de asistencia a la conducción mediante el procesamiento de imágenes procedentes de una dash cam utilizando redes neuronales
-        y técnicas de visión por computador. (Calificado con Sobresaliente 9,5)"
+        y técnicas de visión por computador. (Calificado con Sobresaliente 9,9)"
      
 
 publications:
     title: Cursos
     intro: |
-      Estos son algunos de los cursos que he realizado.
+      Me gusta estudiar y estar en continuo aprendizaje. Estos son algunos de los cursos que he realizado.
     papers:
+    
+      - title: Java de novato a experto (Spring, Struts)
+        link:
+        authors: online
+        conference: 82 horas
+    
       - title: HTML5 de principiante a experto
         link:
         authors: Universidad de La Laguna
@@ -147,11 +155,6 @@ publications:
         authors: Online
         conference: 35 horas
 
-      - title: Introducción a React
-        link:
-        authors: Online
-        conference: 8 horas
-        
       - title: Desarrollo de videojuegos en Unity
         link:
         authors: Online
@@ -191,7 +194,7 @@ skills:
         level: 45%
 
       - name: PHP
-        level: 39%
+        level: 40%
     
     front-end:
       - name: Javascript
@@ -202,11 +205,11 @@ skills:
 
       - name: CSS3 (SaSS)
         level: 85%
+        
+      - name: Vue.js
+        level: 50%
 
       - name: React / React Native
-        level: 60%
-
-      - name: Vue.js
         level: 25%
 
     tools:
@@ -222,19 +225,6 @@ skills:
       - name: Docker
         level: 70%
 
-      - name: TDD (Test Driving Development)
-        level: 60%
-
-      - name: DevOps
-        level: 60%
-
-      - name: Gulp
-        level: 39%
-
-      - name: Powershell
-        level: 39%
-
-    
     hardware:
       - name: Arduino
         level: 90%
@@ -270,26 +260,15 @@ skills:
 
       - name: Jekyll
         level: 50%
+        
+      - name: ETL (Microsoft Integration Services)
+        level: 40%
 
       - name: TensorFlow
         level: 39%
 
       - name: WebGL
         level: 35%
-    
-      - name: Talend
-        level: 30%
-        
-      - name: Tableau
-        level: 25%
-
-      - name: MicroStrategy
-        level: 25%
-
-      - name: Pentaho
-        level: 15%
-
-        
 
 
 footer: >
