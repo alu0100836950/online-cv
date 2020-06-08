@@ -88,9 +88,9 @@ experiences:
           corrigiendo u optimizando las partes existentes y desarrollando nuevas.
           - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas.
           - Generación y análisis de informes con herramientas de <b>Business Intelligence</b>.
-          - Proyecto Chronos: creación de una aplicación desde cero con Java (Spring) para unificar varias aplicaciones obsoletas o poco usables.
-          El proyecto consistió en una fase de ETL para integrar las diferentes fuentes de datos, actividad que realicé bajo la observación de mi tutor
-          debido a la gran complejidad del modelo de datos, y una fase de desarrollo back-end y front-end, las cuales realicé solo.
+          - <b>Proyecto Chronos</b>: creación de una aplicación desde cero con <b>Java (Spring)</b> para unificar varias aplicaciones obsoletas o poco usables.
+          El proyecto consistió en una fase de ETL para integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
+          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end, las cuales realicé solo.
     - role: Becario de TI
       time: 2018 - 2019
       company: Oficina de Software Libre de la Universidad de La Laguna
