@@ -46,23 +46,23 @@ career-profile:
     title: Sobre mí
     summary: |
       Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todos los
-      aparatos que llegaban a mis manos para intentar comprender su funcionamiento.
+      juguetes para intentar comprender su funcionamiento.
        Soy muy <b>feliz</b> por poder dedicarme a lo que siempre
-       había querido. Mi profesión se entremezcla con mi hobby resultándome
+       había querido, mi profesión se entremezcla con mi hobby resultándome
        imposible situar una línea divisoria. Creo que esa es una de las cosas más hermosas
-       que nos pueden ocurrir en la vida y cada día pienso en lo afortunado que soy por ello.<br>
-       <br>Estudié <b>ingeniería informática</b> y cuando llegó el momento de elegir rama, me decanté por la
+       que nos pueden ocurrir y cada día pienso en lo afortunado que soy por ello.<br>
+       <br>Estudié <b>ingeniería informática</b> y dentro de sus ramas me decanté por la
        <b>ingeniería de computadores</b>. En ella, aprendí los conceptos básicos sobre
        <b>sistemas empotrados, robótica, ensambladores</b> y toda la magia que ocurre bajo el sistema operativo hasta llegar
        a la electrónica, donde el mundo físico y el software se entremezclan, algo que siempre quise comprender.
        <br>
        <br>
-       Sin embargo, terminé mis estudios de grado sin apenas conocimientos sobre el mundo web.
-       Quería cambiar eso, en parte por curiosidad y en parte conocedor de las tendencias
-       del mercado y la informática. Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
+       Sin embargo, terminé mis estudios sin apenas conocimientos sobre el mundo web.
+       Quería cambiar eso, tanto por curiosidad como por la necesidad de adaptarme a las tendencias de la tecnología y el mercado.
+        Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
        Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
-       Ingeniería Informática (desarrollo Full Stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
-       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo Full Stack</b> ❤.
+       Ingeniería Informática (desarrollo full stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
+       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo full stack</b> ❤.
        
        
 education:
@@ -81,16 +81,17 @@ experiences:
       time: 2019 - Actualidad
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       details: |
-        Alterné mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
-        Mis funciones principales consistieron en colaborar con el <b><a href="https://simoverail.com/" target="_blank">proyecto SIMOVE</a></b>
-        (Sistema de Monitorización de Velocidad de Embarcado). También realicé otras labores y proyectos paralelos. Algunas de mis actividades fueron:
-          - Colaboración en el <b>desarrollo del backoffice</b> de la aplicación a todos los niveles (back-end, bases de datos y front-end),
-          corrigiendo u optimizando las partes existentes y desarrollando nuevas.
-          - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas.
-          - Generación y análisis de informes con herramientas de <b>Business Intelligence</b>.
-          - <b>Proyecto Chronos</b>: creación de una aplicación desde cero con <b>Java (Spring)</b> para unificar varias aplicaciones obsoletas o poco usables.
-          El proyecto consistió en una fase de ETL para integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
-          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end, las cuales realicé solo.
+        Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
+        Mis principales actividades en la empresa fueron:
+          - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
+          Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
+          nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
+          - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas y sus clientes.
+          - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
+          el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
+          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
+          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end en donde se me concedió
+          mucha autonomía.
     - role: Becario de TI
       time: 2018 - 2019
       company: Oficina de Software Libre de la Universidad de La Laguna
@@ -111,8 +112,7 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Siempre estoy en continuo aprendizaje y realizando proyectos personales. Estoy intentando acostumbrarme a documentar y compartir algunas
-      de las cosas que hago por si pudiesen ser de ayuda a cualquier persona con interés.
+      Siempre estoy en continuo aprendizaje y realizando proyectos personales en mi tiempo libre. Estos son algunos de ellos:
     assignments:
       - title: Cloud-detector
         link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
@@ -127,33 +127,48 @@ projects:
 publications:
     title: Cursos
     intro: |
-      Me gusta estudiar y estar en continuo aprendizaje. Estos son algunos de los cursos que he realizado.
+      Me encanta aprender nuevas habilidades o mejorar las existentes. Estos son algunos de los cursos que he hecho que más me han gustado:
     papers:
     
       - title: Java de novato a experto (Spring, Struts)
         link:
         authors: online
         conference: 82 horas
+
+      - title: VueJS de cero a experto
+        link:
+        authors: online
+        conference: 25 horas
+
+      - title: NodeJS. MVC y APIs REST
+        link:
+        authors: online
+        conference: 37 horas
+
+      - title: Web Full Stack (PHP, Laravel, Symfony, Angular, TypeScrypt)
+        link:
+        authors: online
+        conference: 34 horas
     
+      - title: .Net Core (C#)
+        link:
+        authors: online
+        conference: 24 horas
+
       - title: HTML5 de principiante a experto
         link:
         authors: Universidad de La Laguna
-        conference: 2 ECTS
+        conference: 20 horas (2 ECTS)
 
       - title: Programación web con Javascript
         link: 
         authors: Universidad de La Laguna
-        conference: 2 ECTS
+        conference: 20 horas (2 ECTS)
 
       - title: CSS3 de principiante a experto
         link:
         authors: Universidad de La Laguna
-        conference: 2 ECTS
-
-      - title: Web Full Stack
-        link:
-        authors: Online
-        conference: 35 horas
+        conference: 20 horas (2 ECTS)
 
       - title: Desarrollo de videojuegos en Unity
         link:
@@ -170,22 +185,22 @@ skills:
 
     back-end:
       - name: C / C++ / C#
-        level: 95%
+        level: 85%
 
       - name: NodeJS
-        level: 85%
+        level: 75%
       
-      - name: Python
-        level: 85%
+      - name: Python (Flask, Django)
+        level: 75%
+
+      - name: Java (Spring)
+        level: 75%
 
       - name: Ruby
-        level: 74%
+        level: 50%
         
-      - name: Java
-        level: 70%
-
       - name: Qt
-        level: 65%
+        level: 50%
 
       - name: .NET
         level: 50%
