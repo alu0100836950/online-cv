@@ -36,7 +36,7 @@ sidebar:
       - item: Desarrollo Full Stack
         link:
 
-      - item: NodeJS
+      - item: Diseño y creación de soluciones digitales
         link:
 
       - item: Sistemas embebidos e internet de las cosas
@@ -48,9 +48,8 @@ career-profile:
       Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todos los
       juguetes para intentar comprender su funcionamiento.
        Soy muy <b>feliz</b> por poder dedicarme a lo que siempre
-       había querido, mi profesión se entremezcla con mi hobby resultándome
-       imposible situar una línea divisoria. Creo que esa es una de las cosas más hermosas
-       que nos pueden ocurrir y cada día pienso en lo afortunado que soy por ello.<br>
+       había querido. <b>Amo mi profesión</b>: no sabría dónde trazar una línea que la separase de mi hobby y cada día
+       pienso en lo afortunado que soy por ello.<br>
        <br>Estudié <b>ingeniería informática</b> y dentro de sus ramas me decanté por la
        <b>ingeniería de computadores</b>. En ella, aprendí los conceptos básicos sobre
        <b>sistemas empotrados, robótica, ensambladores</b> y toda la magia que ocurre bajo el sistema operativo hasta llegar
@@ -82,7 +81,7 @@ experiences:
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       details: |
         Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
-        Mis principales actividades en la empresa fueron:
+        Mis principales actividades en la empresa son:
           - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
           Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
           nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
@@ -90,8 +89,8 @@ experiences:
           - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
           el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
           El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
-          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end en donde se me concedió
-          mucha autonomía.
+          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end donde se me concedió
+          una gran autonomía.
     - role: Becario de TI
       time: 2018 - 2019
       company: Oficina de Software Libre de la Universidad de La Laguna
@@ -127,7 +126,7 @@ projects:
 publications:
     title: Cursos
     intro: |
-      Me encanta aprender nuevas habilidades o mejorar las existentes. Estos son algunos de los cursos que he hecho que más me han gustado:
+      Me encanta aprender nuevas habilidades o mejorar las existentes. Estos son algunos de los cursos que he hecho:
     papers:
     
       - title: Java de novato a experto (Spring, Struts)
