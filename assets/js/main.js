@@ -41,6 +41,13 @@ jQuery(document).ready(function($) {
     $(window).scroll(function() {
         checkVisible();
     });
+
+    $('.glow').on('click', (e) => {
+        $('.banner').toggleClass('fade');
+        setTimeout(() => {
+            $('.banner').toggleClass('fade');
+        }, 2500)
+    })
    
 
 });

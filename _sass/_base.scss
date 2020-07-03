@@ -309,3 +309,39 @@ h4 {
     align-items: center;
     margin-bottom: 10px;
 }
+
+.glow {
+    animation: bounce 0.8s linear alternate infinite;
+    cursor: pointer;
+}
+
+@keyframes bounce {
+    100% { opacity: 0.45; color: #057e99 }
+}
+
+.banner {
+    width: 300px;
+    height: 50px;
+    display: flex;
+    background: white;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: -25px;
+    z-index: 5;
+    border-radius: 4%;
+    border: solid 1px #d6d4d4;
+    opacity: 0;
+}
+
+
+.fade {
+    animation: fade 1s linear forwards;
+}
+
+
+@keyframes fade {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}

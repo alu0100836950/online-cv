@@ -92,7 +92,12 @@
     {% for skill in skills.others %}
     <div class="item">
 
+      
+      {% if skill.name == 'Jekyll' %}
+        <div class="banner"><span>¡Este sitio está hecho con Jekyll! :)</span></div>
+      {% endif %}
       <h3 class="level-title {% if skill.name == 'Jekyll' %}glow{% endif %}">{{ skill.name }}</h3>
+      
 
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
