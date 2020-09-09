@@ -233,17 +233,17 @@ skills:
         level: 25%
 
     tools:
-      - name: Ansible
-        level: 80%
-
       - name: Git
         level: 80%
+
+      - name: Ansible
+        level: 70%
       
       - name: Bash
         level: 70%
 
       - name: Docker
-        level: 70%
+        level: 60%
 
     hardware:
       - name: Arduino
