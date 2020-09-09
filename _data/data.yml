@@ -57,7 +57,7 @@ career-profile:
        Quería cambiar eso, tanto por curiosidad como por la necesidad de adaptarme a las tendencias de la tecnología y el mercado.
         Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
        Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
-       Ingeniería Informática (desarrollo full stack).</b> Hoy en día me alegro enormemente de haber tomado esa 
+       Ingeniería Informática - Desarrollo full stack.</b> Hoy en día me alegro enormemente de haber tomado esa 
        decisión, ya que he descubierto una nueva pasión en el <b>desarrollo full stack</b> ❤.
        
        
@@ -77,16 +77,16 @@ experiences:
       time: 2019 - Actualidad
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       details: |
-        Alterné mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
+        Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
         Mis principales actividades en la empresa son:
-          - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
+        - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
+          el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
+          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos son SQL Integration Services, actividad que realicé bajo la supervisión de mi tutor
+          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
+        - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
           Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
           nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
-          - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas y sus clientes.
-          - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
-          el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
-          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
-          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
+        - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas y sus clientes.
     - role: Becario de TI
       time: 2018 - 2019
       company: Oficina de Software Libre de la Universidad de La Laguna
@@ -107,7 +107,8 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Siempre estoy realizando proyectos personales, tanto para divertirme como para seguir aprendiendo o mantenerme actualizado:
+      Siempre estoy realizando proyectos personales, tanto para divertirme como para seguir aprendiendo y mantenerme actualizado. Procurararé irlos
+      enlazando según los vaya documentando.
     assignments:
       - title: Cloud-detector
         link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
@@ -117,7 +118,12 @@ projects:
         link: "https://riull.ull.es/xmlui/handle/915/16580"
         tagline: "Sistema de asistencia a la conducción mediante el procesamiento de imágenes procedentes de una dash cam utilizando redes neuronales
         y técnicas de visión por computador. (Calificado con Sobresaliente 9,9)"
+
+      - title: GreenHouse
+        tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control inteligente automático del riego y visualización web"
      
+      - title: WiMail
+        tagline: "Sistema de aviso por correo electrónico al recibir cartas en el buzón de casa"
 
 publications:
     title: Cursos
@@ -125,12 +131,12 @@ publications:
       Me encanta aprender nuevas habilidades o mejorar las existentes. Estos son algunos de los cursos que he hecho:
     papers:
     
-      - title: Java de novato a experto (Spring, Struts)
+      - title: Java de novato a experto (Spring)
         link:
         authors: online
         conference: 82 horas
 
-      - title: VueJS de cero a experto
+      - title: VueJS desde cero
         link:
         authors: online
         conference: 25 horas
@@ -149,6 +155,10 @@ publications:
         link:
         authors: online
         conference: 24 horas
+
+      - title: Gestión de la innovación (N1)
+        authors: Universidad de La Laguna
+        conference: 3 ECTS
 
       - title: HTML5 de principiante a experto
         link:
@@ -189,7 +199,7 @@ skills:
         level: 75%
 
       - name: Java (Spring)
-        level: 75%
+        level: 65%
 
       - name: Ruby
         level: 50%
@@ -217,7 +227,7 @@ skills:
         level: 85%
         
       - name: Vue.js
-        level: 50%
+        level: 25%
 
       - name: React / React Native
         level: 25%
