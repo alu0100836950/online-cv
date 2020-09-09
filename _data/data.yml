@@ -200,6 +200,12 @@ skills:
 
       - name: Java (Spring)
         level: 70%
+        
+      - name: MySQL
+        level: 70%
+        
+      - name: MongoDB
+        level: 70%
 
       - name: Ruby
         level: 50%
@@ -209,9 +215,6 @@ skills:
 
       - name: .NET
         level: 50%
-
-      - name: MySQL
-        level: 45%
 
       - name: PHP
         level: 40%
