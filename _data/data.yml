@@ -29,9 +29,6 @@ sidebar:
       - idiom: Inglés
         level: Alto
 
-      - idiom: Ruso
-        level: Básico limitado
-
     interests:
       - item: Desarrollo Full Stack
         link:
@@ -76,11 +73,11 @@ education:
       details: |
         
 experiences:
-    - role: Full Stack Developer
+    - role: Becario Full Stack Developer
       time: 2019 - Actualidad
       company: MetroTenerife (Metropolitano de Tenerife, S.A.)
       details: |
-        Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
+        Alterné mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
         Mis principales actividades en la empresa son:
           - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
           Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
@@ -89,8 +86,7 @@ experiences:
           - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
           el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
           El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos, actividad que realicé bajo la supervisión de mi tutor
-          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end donde se me concedió
-          una gran autonomía.
+          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
     - role: Becario de TI
       time: 2018 - 2019
       company: Oficina de Software Libre de la Universidad de La Laguna
@@ -111,7 +107,7 @@ experiences:
 projects:
     title: Proyectos personales
     intro: >
-      Siempre estoy en continuo aprendizaje y realizando proyectos personales en mi tiempo libre. Estos son algunos de ellos:
+      Siempre estoy realizando proyectos personales, tanto para divertirme como para seguir aprendiendo o mantenerme actualizado:
     assignments:
       - title: Cloud-detector
         link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
