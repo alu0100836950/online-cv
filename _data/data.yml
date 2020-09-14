@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alexis Rodríguez Casañas
+    name: Alberto Martín Núñez
     tagline: Ingeniero informático<br><br>Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: alexis.rcas@gmail.com
+    email: alberto.mrtn.nu@gmail.com
     phone:
     website:
-    linkedin: alexrcas
-    github: alexrcas
+    linkedin: alberto-martin-nuñez-917085121
+    github: alu0100836950
     gitlab:
     bitbucket:
     twitter:
@@ -27,39 +27,34 @@ sidebar:
     languages:
 
       - idiom: Inglés
-        level: Alto
+        level: Medio
 
     interests:
       - item: Desarrollo Full Stack
         link:
 
-      - item: Diseño y creación de soluciones digitales
+      - item: Análisis de datos
         link:
 
-      - item: Sistemas embebidos e internet de las cosas
+      - item: Internet de las cosas
         link:
+        
+      - item: Smart City
+        link:
+
 
 career-profile:
     title: Sobre mí
     summary: |
-      Nací en <b>Tenerife</b> en el año <b>1993</b> y me pasé la infancia rompiendo todos lo que
-      llegaba a mis manos para intentar comprender su funcionamiento.
-       Soy muy <b>feliz</b> por poder dedicarme a lo que siempre
-       había querido. <b>Amo mi profesión</b>: no sabría dónde trazar una línea que la separase de mi hobby y cada domingo cuando 
-       no me importa que al día siguiente sea lunes pienso en lo afortunado que soy por ello.<br>
-       <br>Estudié <b>ingeniería informática</b> y dentro de sus ramas me decanté por la
-       <b>ingeniería de computadores</b>. En ella, aprendí los conceptos básicos sobre
-       <b>sistemas empotrados, robótica, ensambladores</b> y toda la magia que ocurre bajo el sistema operativo hasta llegar
-       a la electrónica, donde el mundo físico y el software se entremezclan, algo que siempre quise comprender.
-       <br>
-       <br>
-       Sin embargo, terminé mis estudios sin apenas conocimientos sobre el mundo web.
-       Quería cambiar eso, tanto por curiosidad como por la necesidad de adaptarme a las tendencias de la tecnología y el mercado.
-        Comencé a explorar esta rama de forma autodidacta y resultó encantarme. 
-       Pese a no tener el perfil de ingreso ideal, decidí lanzarme y matricularme en el <b>Máster Oficial de 
-       Ingeniería Informática - Desarrollo full stack.</b> Hoy en día me alegro enormemente de haber tomado esa 
-       decisión, ya que he descubierto una nueva pasión en el <b>desarrollo full stack</b> ❤.
-       
+      Vivo en **Tenerife**, concretamente en un pueblo llamado **Taganana** perteniciente al *macizo de Anaga*.
+      Nunca supe hasta que entré en la Universidad que quería ser de mayor o que podría apasionarme tanto 
+      como para sentirme orgulloso de mi y de mis conocimientos, hasta que la conocí a ella, la **informática**. 
+      Estudié el **Grado en Ingeniería Informática** siendo para mi todo un reto porque prácticamente tenía nulos conocimientos
+      sobre esta rama de ingeniería, pero el resultado de realizar este estudio me cambió por completo, a nivel personal y profesional.
+      No me quedé ahí y decidí ampliar mis conocimientos realizando un **Máster Oficial en Ingeniería Informática** orientado al **Desarrollo full stack**.
+
+      A día de hoy me alegra haber tomado la decisión de realizar estos estudios por los conocimientos que he recibido
+      y porque siento que esta profesión más allá de ser un trabajo es un pasión constante de aprendizaje.
        
 education:
     - degree: Máster en Desarrollo Full Stack
@@ -73,90 +68,52 @@ education:
       details: |
         
 experiences:
-    - role: Becario Full Stack Developer
-      time: 2019 - Actualidad
-      company: MetroTenerife (Metropolitano de Tenerife, S.A.)
+    - role: Alumno en prácticas Full Stack Developer
+      time: 2018 - 2018
+      company: HGM Network, San Cristóbal de La Laguna
       details: |
-        Alterno mis estudios de Máster con una beca de inserción laboral en MetroTenerife.
-        Mis principales actividades en la empresa son:
-        - <b>Proyecto Chronos</b>: creación de una aplicación web desde cero con <b>Java (Spring)</b> para sustituir diversas aplicaciones obsoletas y unificar
-          el trabajo de todos los departamentos de la empresa, así como obtener indicadores de interés para la gerencia.
-          El proyecto consistió en una fase de ETL para estudiar e integrar las diferentes fuentes de datos son SQL Integration Services, actividad que realicé bajo la supervisión de mi tutor
-          debido a la gran complejidad del modelo de datos y la criticidad de los mismos, y una fase de desarrollo back-end y front-end que realicé con mayor autonomía.
-        - <b><a href="https://simoverail.com/" target="_blank">Proyecto SIMOVE</a></b> (Sistema de Monitorización de Velocidad de Embarcado).
-          Colaboración en el desarrollo del back-office de la aplicación en todo el stack (base de datos, back-end y front-end), implementando
-          nuevas funcionalidades o corrigiendo u optimizando otras ya existentes.
-        - <b>Desarrollo de formularios .NET</b> para la intranet de la empresa, usados cada día por todas las oficinas y sus clientes.
-    - role: Becario de TI
+        Estas son las las prácticas que realize durante 3 meses:
+        Mis principal actividad en la empresa fue:
+        - <b>Aplicación de facturación</b>: realizar una aplicación web con código ya comenzado utilizando <b>PHP, javascript, HTML, CSS3, AJAX, etc </b>.
+       
+    - role: Becario en la Universidad de La Laguna
       time: 2018 - 2019
-      company: Oficina de Software Libre de la Universidad de La Laguna
+      company: Universidad de La Laguna
       details: |
         Compaginé mi último año de estudios del grado con una beca de colaboración
-        en la Oficina de Software Libre. Mis tareas principales consistían en:
+        en la Universidad de La Laguna. Mis tareas principales consistían en:
           - Velar por el correcto funcionamiento de las aulas de informática
           y <b>solucionar incidencias técnicas</b> en equipos individuales, servidores y
           equipos de red.
-          - <b>Desarrollo de una web</b>, plugins y temas personalizados en Wordpress desde cero.
-          - Atender y prestar <b>servicio técnico u orientación</b> a cualquier persona
-          que se dirijiese a la oficina siempre que la consulta estuviese relacionada
-          con <b>Linux y software libre</b>.
-          - <b>Tutorizar</b> un curso online sobre <b>Linux</b> al resto de becarios, atendiendo
-          sus dudas, así como <b>impartir algunas charlas</b> técnicas y divulgativas.
-          - Colaborar en la <b>organización de eventos y congresos</b>, como el <b>PyDay Tenerife</b> o
-          el <b>Congreso de Estudiantes de Ingeniería Informática</b>
+          - <b>Instalación de software</b>, en los equipos de la aulas que me correspondían.
+          - Atender y prestar <b>servicio técnico u orientación</b> a alumnos y profesores
+          sobre el estado de las aulas, mantenimientos, etc.
+
 projects:
     title: Proyectos personales
     intro: >
-      Siempre estoy realizando proyectos personales, tanto para divertirme como para seguir aprendiendo y mantenerme actualizado. Procurararé irlos
-      enlazando según los vaya documentando.
+      Me gusta seguir aprendiendo e investigar y por ello hago proyectos y estudios individuales, tanto para divertirme como para seguir aprendiendo y amplicar mi conocimiento. 
     assignments:
-      - title: Cloud-detector
-        link: "https://github.com/alexrcas/cloud-detector/blob/master/README.md"
-        tagline: "Sistema de detección de intrusos mediante machine learning basado en computación en la nube"
 
       - title: Proyecto de fin de carrera
-        link: "https://riull.ull.es/xmlui/handle/915/16580"
-        tagline: "Sistema de asistencia a la conducción mediante el procesamiento de imágenes procedentes de una dash cam utilizando redes neuronales
-        y técnicas de visión por computador. (Calificado con Sobresaliente 9,9)"
+        tagline: "Marco de trabajo para el diseño, implantación y gestión de proyectos inteligentes (Calificado con Sobresaliente 9,9)"
 
-      - title: GreenHouse
-        tagline: "Monitorización de temperatura, humedad, humedad del suelo y agua empleada para huertos caseros, con control inteligente automático del riego y visualización web"
-     
-      - title: WiMail
-        tagline: "Sistema de aviso por correo electrónico al recibir cartas en el buzón de casa"
+      - title: Quality_of_Life_Project
+        tagline: "Estudio de la evaluación de la calidad de vida en las ciudades"
 
 publications:
     title: Cursos
     intro: |
-      Me encanta aprender nuevas habilidades o mejorar las existentes. Estos son algunos de los cursos que he hecho:
+      Me encanta aprender nuevas habilidades y adquirir conocimientos de las nuevas técnologías. Estos son algunos de los cursos que he realizado:
     papers:
-    
-      - title: Java de novato a experto (Spring)
-        link:
-        authors: online
-        conference: 82 horas
 
-      - title: VueJS desde cero
+      - title: Web Scraping - Extraccion de datos y automatización en la web
         link:
         authors: online
-        conference: 25 horas
+        conference: 8 horas
 
-      - title: NodeJS. MVC y APIs REST
-        link:
-        authors: online
-        conference: 37 horas
 
-      - title: Web Full Stack (PHP, Laravel, Symfony, Angular, TypeScrypt)
-        link:
-        authors: online
-        conference: 34 horas
-    
-      - title: .Net Core (C#)
-        link:
-        authors: online
-        conference: 24 horas
-
-      - title: Gestión de la innovación (N1)
+      - title: Experto e-Goverment y Smart Cities
         authors: Universidad de La Laguna
         conference: 3 ECTS
 
@@ -175,53 +132,38 @@ publications:
         authors: Universidad de La Laguna
         conference: 20 horas (2 ECTS)
 
-      - title: Desarrollo de videojuegos en Unity
-        link:
-        authors: Online
-        conference: 36 horas
-
-      - title: Deep Learning con TensorFlow
-        link: 
-        authors: Online
-        conference: 40 horas
 
 skills:
     title: Habilidades y competencias
 
     back-end:
       - name: C / C++ / C#
-        level: 85%
+        level: 30%
 
       - name: NodeJS
-        level: 75%
+        level: 60%
       
       - name: Python (Flask, Django)
         level: 75%
-
-      - name: Java (Spring)
-        level: 70%
         
       - name: MySQL
-        level: 70%
+        level: 60%
         
       - name: MongoDB
-        level: 70%
+        level: 50%
 
       - name: Ruby
-        level: 50%
+        level: 40%
         
       - name: Qt
-        level: 50%
-
-      - name: .NET
-        level: 50%
+        level: 20%
 
       - name: PHP
-        level: 40%
+        level: 50%
     
     front-end:
       - name: Javascript
-        level: 85%
+        level: 60%
 
       - name: HTML5
         level: 85%
@@ -229,9 +171,6 @@ skills:
       - name: CSS3 (SaSS)
         level: 85%
         
-      - name: Vue.js
-        level: 25%
-
       - name: React / React Native
         level: 25%
 
@@ -240,34 +179,28 @@ skills:
         level: 80%
 
       - name: Ansible
-        level: 70%
+        level: 40%
       
       - name: Bash
         level: 70%
 
       - name: Docker
-        level: 60%
+        level: 40%
 
     hardware:
       - name: Arduino
-        level: 90%
+        level: 80%
 
       - name: Verilog
-        level: 80%
+        level: 60%
       
       - name: Lenguaje ensamblador
         level: 70%
 
-      - name: ROS (Robot Operating System)
-        level: 50%
-
     others:
 
       - name: Linux
-        level: 90%
-
-      - name: Unity
-        level: 90%
+        level: 80%
 
       - name: Redes
         level: 70%
@@ -281,14 +214,9 @@ skills:
       - name: Jekyll
         level: 50%
         
-      - name: ETL (Microsoft Integration Services)
-        level: 40%
-
-      - name: TensorFlow
-        level: 39%
-
       - name: WebGL
         level: 35%
+
 
 
 footer: >
