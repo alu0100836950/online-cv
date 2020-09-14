@@ -88,6 +88,16 @@ experiences:
           - <b>Instalación de software</b>, en los equipos de la aulas que me correspondían.
           - Atender y prestar <b>servicio técnico u orientación</b> a alumnos y profesores
           sobre el estado de las aulas, mantenimientos, etc.
+          - role: Becario en la Universidad de La Laguna
+    - role: Monitor
+      time: 2016 - 2018
+      company: Grupo Ralons, Santa Cruz de Tenerife
+      details: |
+        Compaginé algunos años de estudio del grado en un proyecto de del Ayuntamiento de Santa Cruz de Tenerife llamado *Distrito Joven*.
+        Mis tarea principal consistía en:
+          - Impartir clases a jóvenes sobre tecnología, seguridad en redes sociales, programación con Arduino, etc.
+          - Mantenimiento de dispositvos Tablets así como instalacion de software de aplicaciones usadas por otros monitores.
+
 
 projects:
     title: Proyectos personales
