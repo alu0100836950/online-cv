@@ -70,14 +70,7 @@ education:
       details: |
         
 experiences:
-    - role: Alumno en prácticas Full Stack Developer
-      time: 2018 - 2018
-      company: HGM Network, San Cristóbal de La Laguna
-      details: |
-        Estas son las las prácticas que realize durante 3 meses:
-        Mis principal actividad en la empresa fue:
-        - <b>Aplicación de facturación</b>: realizar una aplicación web con código ya comenzado utilizando <b>PHP, javascript, HTML, CSS3, AJAX, etc </b>.
-       
+    
     - role: Becario en la Universidad de La Laguna
       time: 2018 - 2019
       company: Universidad de La Laguna
@@ -91,6 +84,15 @@ experiences:
           - Atender y prestar <b>servicio técnico u orientación</b> a alumnos y profesores
           sobre el estado de las aulas, mantenimientos, etc.
           - role: Becario en la Universidad de La Laguna
+          
+    - role: Alumno en prácticas Full Stack Developer
+      time: 2018 - 2018
+      company: HGM Network, San Cristóbal de La Laguna
+      details: |
+        Estas son las las prácticas que realize durante 3 meses:
+        Mis principal actividad en la empresa fue:
+        - <b>Aplicación de facturación</b>: realizar una aplicación web con código ya comenzado utilizando <b>PHP, javascript, HTML, CSS3, AJAX, etc </b>.
+       
     - role: Monitor
       time: 2016 - 2018
       company: Grupo Ralons, Santa Cruz de Tenerife
