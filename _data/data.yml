@@ -41,8 +41,7 @@ sidebar:
 
       - item: Smart City
         link:
-    Otros datos:
-      - item: Carnet de conducir con coche propio
+
 
 
 career-profile:
@@ -84,7 +83,7 @@ experiences:
           - Atender y prestar <b>servicio técnico u orientación</b> a alumnos y profesores
           sobre el estado de las aulas, mantenimientos, etc.
           - role: Becario en la Universidad de La Laguna
-          
+
     - role: Alumno en prácticas Full Stack Developer
       time: 2018 - 2018
       company: HGM Network, San Cristóbal de La Laguna
