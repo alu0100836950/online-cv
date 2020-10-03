@@ -70,6 +70,12 @@ education:
         
 experiences:
     
+    - role: Becario
+      time: 2020 - 2021
+      company: Your Inspiration Solutions S.L.
+      details: |
+        Apoyo en desarrollo de aplicaciones web, nociones de PHP, HTML, CSS, JQuery y WordPress.
+
     - role: Becario en la Universidad de La Laguna
       time: 2018 - 2019
       company: Universidad de La Laguna
